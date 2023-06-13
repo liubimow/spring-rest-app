@@ -6,6 +6,7 @@
 Настроить файл application.yml (postgresql). Можно запускать:  `./gradlew bootRun`</summary>
 
 **Endpoint**
+
 endpoint для отправки POST-запроса в формате JSON: `/main/new`
 
 *Пример запроса в формате JSON:*
